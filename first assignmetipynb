@@ -1,0 +1,205 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "3d88f154-2376-4d7f-ac98-37edda3a18c8",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#PYTHON ASSIGNMENT 1"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "1855229e-875e-4c04-8fbb-60f5e13c3a9f",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#ANSWER 1:\n",
+    "GUDIO VAN ROSSUM."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "60f39859-4a68-4122-abab-e53a9154bcc9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#ANSWER 2:\n",
+    "Object oriented programing and structured programing."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "1ab7f87f-ee5d-4f0c-8a6a-bcca004d5606",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# ANSWER 4:\n",
+    "pytho file extension are Py,pyi,pyd,pyc,pyo ,pyw,pyz."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "71d5213c-ddbe-4f75-8ff0-8b1c43dcb876",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# ANSWER 3:\n",
+    "YES."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "dc63f1ba-052c-4110-80a3-7c88aed48b0f",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#ANSWER 5:\n",
+    "YES."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f75ff8a7-7c55-4b3f-809b-7a3ef69c231d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# ANSWER 6:\n",
+    "if , else ,module ,a function body and class difinition."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "38a48d69-b346-4cd8-ba3d-8a28b0e263de",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# ANSWER 7:\n",
+    " #."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "04047439-daaf-4e99-8791-1cd8703abe3b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# ANSWER 8:\n",
+    "the function sys. version can help us to find the version of python that we are currently working on."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ae898f85-d133-48e7-8446-34446c4e57ef",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# ANSWER 10: \n",
+    "pip installs packages it nis a coman line untility taht installs."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "cacc2857-272b-4857-8266-779e4fb967d5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# ANSWER 11:\n",
+    "list() ,len() ,bool(),type() etc"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "02f1b5a3-483f-4885-85e7-eecf36cc22e5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# ANSWER 12: \n",
+    "An identifier can have a maximum length of 79 characteer in python."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1dc02243-0d0c-4888-907b-86e64efe05f9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# ANSWER 13: \n",
+    "we can make software smaller in size."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c58a79b3-470d-45da-a51d-011291e7b166",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# ANSWER 14:\n",
+    "(1).python memory is managed by python private heap space.\n",
+    "(2).all python objects and data structure are located in a private heap\n",
+    "(3).the programemer does not have access to this heap and interpreter takes care of this python privet heap."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0a926fc1-93cc-4c94-94e0-e153b46bc23d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#ANSWER 15:\n",
+    "(1).Right-clicking this PC and going to properties.\n",
+    "(2).clicking on the advanced system settings in the manu of the left.\n",
+    "(3).clicking on the enivironment variables button on the bottom right.\n",
+    "(4).in the system variables section, selecting the path variables and clicking on Edit."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "53585f98-65bb-4c1a-876b-a31978ac3180",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#ANSWER 16:\n",
+    "YES the identation of python i"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
